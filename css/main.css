@@ -1,0 +1,46 @@
+main {
+  /*padding-top: 0px;*/
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+}
+
+main .row {
+  margin-bottom: 10px;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 0.5em;
+}
+
+.card {
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 20px;
+  font-size: 12px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
